@@ -11,12 +11,12 @@ int main (int argc, char* argv[]){
 	}else if( switchValue == 2){
 	
 		//case 2:
-		print("Switch Value: 2\n");
+		printf("Switch Value: 2\n");
 		
 	}else{
 	
 		//default
-		printf("Switch Value: no valid switch\n")
+		printf("Switch Value: no valid switch\n");
 	}
 	return 0;
 }
